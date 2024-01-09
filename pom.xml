@@ -44,6 +44,7 @@
             <artifactId>java-checks-testkit</artifactId>
             <version>${java.plugin.version}</version>
             <scope>test</scope>
+          </dependency>
    
   </dependencies>
   <build>
